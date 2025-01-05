@@ -54,9 +54,9 @@ FPGA board, RISC-V microprocessor, UART Protocol
 
 ## Contributors 
 
-- [Md Faizan](https://github.com/Md-Faizan1)
-- [Sudhanshu Ranjan](https://github.com/sudhanshur555)
-- [Sumit Saroj](https://github.com/Sumit20215155)
+- [Amit Prasad Singh](https://github.com/AmitSingh-2905)
+- [Ansuman Patro](https://github.com/ansumanpatro-11)
+
 
 
 
